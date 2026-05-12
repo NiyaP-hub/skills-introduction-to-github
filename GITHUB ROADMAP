@@ -1,0 +1,116 @@
+
+PHASE 1 — Git & GitHub Basics (1–2 weeks)
+-------------------------------------------
+Course 1 : Google Git & GitHub Course : https://www.skills.google/paths/2472/course_templates/1343?utm_source=chatgpt.com
+
+          ONLY learn:
+          
+          what is git
+          repository
+          clone
+          commit
+          push
+          pull
+          branch
+          merge
+          pull request
+
+Course 2 : GitHub Skills - Introduction to GitHub : https://github.com/skills/introduction-to-github?utm_source=chatgpt.com
+This is hands-on.
+
+        You’ll practice:
+        
+        repos
+        issues
+        branches
+        commits
+        PRs
+
+Course 3 : Review Pull Requests : https://github.com/skills/review-pull-requests?utm_source=chatgpt.com
+
+        Learn:
+        
+        PR review process
+        approvals
+        comments
+        merges
+        
+        VERY important for engineering workflow.
+
+Course 4 : Reolve Merge Conflicts : https://github.com/skills/resolve-merge-conflicts?utm_source=chatgpt.com
+
+        Learn:
+        
+        merge conflicts
+        conflict resolution
+        branch syncing
+        
+        That’s enough Git/GitHub basics.
+
+PHASE 2 — GitHub Actions + CI/CD (2 weeks)
+-------------------------------------------
+
+NOW move into engineering workflows.
+
+Course 5 : Hello GitHub Actions: https://github.com/skills/hello-github-actions?utm_source=chatgpt.com
+
+          Learn:
+          
+          workflow YAML
+          triggers
+          jobs
+          steps
+          automation
+          
+          THIS is your introduction to CI/CD.
+
+Course 6 : Test with GitHub Actions : https://github.com/skills/test-with-actions?utm_source=chatgpt.com
+
+          Learn:
+          
+          automated testing
+          CI pipelines
+          running workflows automatically
+          
+          This is what interviewers mean by:
+          
+          “Do you know CI/CD?”
+
+
+Course 7 : GitHub Secrets Exercise : https://github.com/githubtraining/exercise-use-secrets?utm_source=chatgpt.com
+
+          Learn:
+          
+          GitHub Secrets
+          encrypted credentials
+          environment variables
+          secure pipelines
+          
+          VERY useful for cloud/data jobs.
+
+PHASE 3 — Build Something Tiny (MOST IMPORTANT)
+          
+          After those courses:
+          
+          Create your own GitHub repo.
+          
+          Example:
+          
+          sql-learning-project
+          
+          Add:
+          
+          SQL scripts
+          README
+          simple Python file later
+          
+          Then:
+          
+          create branch
+          commit changes
+          open PR
+          merge PR
+          add GitHub Action
+          add secret
+          
+          THIS is where confidence comes from.
